@@ -1,1 +1,1 @@
-console.log("ajay is bad boy");
+console.log("ajay is bad boy, and ");
